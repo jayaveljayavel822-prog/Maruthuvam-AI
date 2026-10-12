@@ -10,7 +10,10 @@
 
 > **Understand · Organize · Manage Your Health Journey**  
 > Complete enterprise-grade full-stack migration of the Maruthuvam.AI web application built with React, FastAPI, SQLAlchemy 2.0, PostgreSQL/SQLite, and Docker Compose.
+## 🌐 Live Demo
+https://maruthuvam-ai.vercel.app
 
+**Demo login:** `demo_user` / `demo1234`
 ---
 
 ## 🌟 Key Highlights & Capabilities
